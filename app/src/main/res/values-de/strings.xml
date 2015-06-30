@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Package Sorter</string>
+    <string name="title_activity_highscore">Highscore</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--MainActivity-->
+    <string name="button_play">Spielen</string>
+    <string name="button_highscore">Highscore</string>
+    <string name="button_post">Die Post</string>
+    <string name="switch_sound">Sound:</string>
+
+    <!--Highscore-->
+    <string name="title_highscore">Highscore</string>
+    <string name="button_back">Zurück</string>
+
+    <!--Help (dialoglayout)-->
+    <string name="title_help">Hilfe</string>
+    <string name="info_howtoplay">Wie man Spielt:
+            \n
+            \n 1. Drücken Sie SPIELEN um zu beginnen.
+            \n 2. Pakete kommen vom oberen Rand des Bildschirmes.
+            \n 3. Drehen Sie Ihr Gerät auf die linke oder rechte Seite um die Pakete richtg zu versenden.
+                \n \t 3.1. Ist das Paket mit einem Pfeil nach links gekennzeichnet, so drehen Sie Ihr Gerät mit Schwung nach links.
+                \n \t 3.2. Ist das Paket mit einem Pfeil nach rechts gekennzeichnet, so drehen Sie Ihr Gerät mit Schwung nach rechts.
+                \n \t 3.3. Ist das Paket beschädigt, so drehen Sie Ihr Gerät nicht und lassen das Paket passieren.
+            \n 4. Sie können sich drei Fehler erlauben, bevor das Spiel beendet wird.</string>
+    <string name="button_ok">OK</string>
+
+    <!--Pause-Menu-->
+    <string name="title_pause">Pause</string>
+    <string name="button_resume">Fortfahren</string>
+    <string name="button_restart">Neu Starten</string>
+    <string name="button_end">Ende/Menu</string>
+
+</resources>

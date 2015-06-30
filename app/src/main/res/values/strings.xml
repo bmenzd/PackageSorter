@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Package Sorter</string>
+    <string name="title_activity_highscore">Highscore</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--MainActivity-->
+    <string name="button_play">Play</string>
+    <string name="button_highscore">Highscore</string>
+    <string name="button_post">Die Post</string>
+    <string name="switch_sound">Sound:</string>
+
+    <!--Highscore-->
+    <string name="title_highscore">Highscore</string>
+    <string name="button_back">Back</string>
+
+    <!--Help (dialoglayout)-->
+    <string name="title_help">Help</string>
+        <string name="info_howtoplay">How to play:
+            \n
+            \n 1. Press PLAY to begin.
+            \n 2. Packets are coming down from top of the screen.
+            \n 3. Now you have to swipe your phone on the left or right side to sent the packages on the right direction.
+               \n \t 3.1. If the Package is signed with an arrow showing to right, swipe your Phone to the right direction.
+               \n \t 3.2. If the Package is signed with an arrow showing to left, swipe your Phone to the left direction.
+               \n \t 3.3. If the Package is damaged, don\'t swipe your Phone and let the package pass.
+            \n 4. You can make 3 mistakes before the game gets ended.</string>
+    <string name="button_ok">OK</string>
+    <string name="title_activity_play_game">PlayGame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_pause_menu">PauseMenu</string>
+
+    <!--Pause-Menu-->
+    <string name="title_pause">Pause</string>
+    <string name="button_resume">Resume</string>
+    <string name="button_restart">Restart</string>
+    <string name="button_end">End/Menu</string>
+
+</resources>
